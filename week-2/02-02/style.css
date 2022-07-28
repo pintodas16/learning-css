@@ -1,0 +1,43 @@
+body {
+  background: #b3b3b3;
+  margin: 2%;
+}
+h1 {
+  font-size: 3rem;
+  color: #fff;
+}
+header {
+  text-align: center;
+  background: #00b7ea;
+}
+nav {
+  font-size: 2rem;
+  font-variant: small-caps;
+  padding-bottom: 1rem;
+}
+section {
+  width: 31%;
+  margin-right: 2%;
+  display: inline-block;
+  float: left;
+}
+details {
+  font-style: italic;
+}
+summary {
+  font-style: normal;
+}
+h2 {
+  background: #00b7ea;
+  /* font-size: 2rem; */
+}
+
+footer {
+  background: #00b7ea;
+  padding-bottom: 5rem;
+  clear: both;
+}
+
+img {
+  width: 5rem;
+}
